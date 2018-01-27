@@ -1,0 +1,2 @@
+# whitepaper
+Gruad Cyberspace Whitepaper
